@@ -1,5 +1,5 @@
 # GlobalAIHubPythonCourse
-![](img/logo.png)	![](img/logo.png)
+![](img/logo.png)	
 
 
 **Course Date:** 01.02.2021
